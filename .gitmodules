@@ -1,0 +1,3 @@
+[submodule "StarAdminFree/StarAdminFree/StarAdmin-Free-Bootstrap-Admin-Template"]
+	path = StarAdminFree/StarAdminFree/StarAdmin-Free-Bootstrap-Admin-Template
+	url = https://github.com/BootstrapDash/StarAdmin-Free-Bootstrap-Admin-Template.git
